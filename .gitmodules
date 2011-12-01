@@ -1,0 +1,3 @@
+[submodule "AndroPong/androlove"]
+	path = AndroPong/androlove
+	url = git://github.com/miko/androlove.git
