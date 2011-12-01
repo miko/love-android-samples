@@ -1,2 +1,0 @@
-
-local s=createSensor( 'BMA150 3-AXIS ACCELEROMETER', __RIDS['TYPE_ACCELEROMETER'])
